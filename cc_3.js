@@ -12,4 +12,10 @@ let customers = [
     "purchases": ["Orchid, sunflowers, lavender"],
 },
 ]
+customers.push({
+    "name": "Katie Potter",
+    "email": "Katieepgym@hotmail.com",
+    "purchases": "Jasmine, lilacs, roses",
+});
+
 
