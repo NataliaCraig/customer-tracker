@@ -18,9 +18,10 @@ customers.push({
     "purchases": ["Jasmine", "lilacs", "roses",]
 });
 let removedCustomer = customers.shift();
+customers[0].email = "Rossiedds2025@gmail.com";
 console.log("After removing first customer:", customers);
 
-customers[0].email = "mmadison.capess@gmail.com";
+
 console.log(customers[0]);
 
 
